@@ -150,17 +150,14 @@ plt.show()
 ## Output:
 ### i)Image Translation
 ![image](https://github.com/Nachiyarr/IMAGE-TRANSFORMATIONS/assets/113497340/6469ede2-e1d0-4ee5-889d-eef0d1c916be)
-![image](https://github.com/Nachiyarr/IMAGE-TRANSFORMATIONS/assets/113497340/ee80f245-2322-46e0-9048-d7c19faeb86f)
-
 ### ii) Image Scaling
 ![image](https://github.com/Nachiyarr/IMAGE-TRANSFORMATIONS/assets/113497340/09cc3758-3583-4545-a838-0cbb1d322373)
 ### iii)Image shearing
 ![image](https://github.com/Nachiyarr/IMAGE-TRANSFORMATIONS/assets/113497340/d1f4c701-e19b-4f9e-82ae-1af366a481f3)
-![image](https://github.com/Nachiyarr/IMAGE-TRANSFORMATIONS/assets/113497340/c82e9d7b-af94-4f59-a72c-9303d5386801)
 
 ### iv)Image Reflection
 ![image](https://github.com/Nachiyarr/IMAGE-TRANSFORMATIONS/assets/113497340/67d5bdb2-4e60-498c-b759-520654d9959f)
-![image](https://github.com/Nachiyarr/IMAGE-TRANSFORMATIONS/assets/113497340/11b41b85-f9fb-4030-b54a-6db2a52c5f0c)
+
 ### v)Image Rotation
 ![image](https://github.com/Nachiyarr/IMAGE-TRANSFORMATIONS/assets/113497340/cf583703-a521-4f7e-88da-b9eaeab4671e)
 ### vi)Image Cropping
